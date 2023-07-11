@@ -1,5 +1,5 @@
 ## 🚀 About Me:
-✨ Hi there! I'm a computer engineering student. <br>🌱 currently learning JavaScript and React.<br>⚡ trying to improve my coding skills and become a Full Stack Developer.
+✨ Hi there! I'm a computer engineer. <br>🌱 currently learning JavaScript and React.<br>⚡ trying to improve my coding skills and become a Full Stack Developer.
 
 
  ## 💻 Tech Stack:
