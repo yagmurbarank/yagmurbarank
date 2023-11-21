@@ -1,22 +1,15 @@
-## 🚀 About Me:
-✨ Hi there! I'm a computer engineer. <br>🌱 currently learning JavaScript and React.<br>⚡ trying to improve my coding skills and become a Full Stack Developer.
 
----
+## Hello, this is **Yağmur Baran Karakuş** 👋🏻
 
- ## 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB)  ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=.net&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white)
+I'm a passionate computer engineer who aspires to thrive in the web development field. I am dedicated to honing my skills in JavaScript and React as I am willing to gain hands-on experience and contribute to innovative projects.
+<br/>
+If you'd like to contribute to my projects, please open an issue or send a pull request. Feel free to reach out!
 
- ---
+- 💼 [LinkedIn](https://www.linkedin.com/in/yagmurbarankarakus/)
+- ⌨️ [Medium](https://medium.com/@yagmurbarank)
+
+<br/>
  
- <details>  <summary>🌟 Details...</summary> <br>
- <summary> GitHub Stats</summary> <br>
- <img src="https://github-readme-stats.vercel.app/api?username=yagmurbarank&show_icons=true&theme=aura"> <br>
-
- <summary> Most Used Language</summary> <br>
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yagmurbarank&layout=compact&theme=aura">
- 
-[![](https://visitcount.itsvg.in/api?id=yagmurbarank&icon=0&color=0)](https://visitcount.itsvg.in)
-
+ <details>  <summary> More...</summary> <br>
+ <img src="https://github-readme-stats.vercel.app/api?username=yagmurbarank&show_icons=true&theme=aura"> 
  </details> 
- 
-
